@@ -1,2 +1,6 @@
 this is a new
+<<<<<<< HEAD
 this is change in master
+=======
+this is in gg
+>>>>>>> gg
