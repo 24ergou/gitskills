@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is bug issue 101 change 
+=======
+this is bug issue 101 change
+this is chaneng 9-9 17
+>>>>>>> 1e846268fac4ed0ce77bb31f967111d57097148d
