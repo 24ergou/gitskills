@@ -6,4 +6,4 @@ this is in gg
 >>>>>>> gg
 this change 18 42
 this is change on other branch
-
+this is chenge from gitskills 9-10
